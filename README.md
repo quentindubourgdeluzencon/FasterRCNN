@@ -9,7 +9,7 @@ For this goal, we can use a training dataset:
 - 1000 images  
 - For each image one or more bounding boxes [xmin, ymin, width, height] and the associated classification (​small_vrac​ or big_vrac).
 
-<img src='./ressources/pictures/image.jpeg' width=100 height=100 style="border-radius:50%">
+<img src='./ressources/pictures/image.jpeg' width=500 height=500 style="border-radius:50%">
 I developed a system using Faster-RCNN, all code is explained in the Notebook: FasterRCNN.ipynb
 
 # Used Libraries
